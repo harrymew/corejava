@@ -1,7 +1,5 @@
 package startup;
 
-import org.omg.Messaging.SYNC_WITH_TRANSPORT;
-
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.nio.file.Paths;
