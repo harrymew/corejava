@@ -1,7 +1,5 @@
 package startup;
 
-import com.sun.scenario.Settings;
-
 import java.io.*;
 import java.util.Properties;
 import java.util.Scanner;
